@@ -1,4 +1,4 @@
-# Contributing to Neural-Networks-and-Deep-Learning-Fundamentals:
+# Contributing to Convolutional-Neural-Networks-CNN :
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
