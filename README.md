@@ -23,9 +23,9 @@ By completing this repository, you will be able to:
 - Analyze model performance using relevant evaluation metrics.
 - Design CNN experiments using maintainable and reproducible engineering practices.
 
-## Course Structure
+## Repository Structure
 
-### Day 1: Introduction to Convolutional Neural Networks
+### 1: Introduction to Convolutional Neural Networks
 
 Introduces the architecture, purpose, and core principles of Convolutional Neural Networks.
 
@@ -40,7 +40,7 @@ Topics include:
 - Receptive fields.
 - CNNs in computer vision applications.
 
-### Day 2: Convolutional Layers and Filters
+### 2: Convolutional Layers and Filters
 
 Explains how convolutional layers detect meaningful patterns in images.
 
@@ -56,7 +56,7 @@ Topics include:
 - Output dimension calculations.
 - Parameter estimation for convolutional layers.
 
-### Day 3: Pooling Layers and Dimensionality Reduction
+### 3: Pooling Layers and Dimensionality Reduction
 
 Covers pooling operations and their role in reducing spatial dimensions.
 
@@ -71,7 +71,7 @@ Topics include:
 - Information preservation.
 - Effects of pooling on model performance.
 
-### Day 4: Building CNN Architectures with Keras and TensorFlow
+### 4: Building CNN Architectures with Keras and TensorFlow
 
 Demonstrates how to design, train, and evaluate CNN models using TensorFlow and Keras.
 
@@ -87,7 +87,7 @@ Topics include:
 - Model evaluation.
 - Saving and loading trained models.
 
-### Day 5: Building CNN Architectures with PyTorch
+### 5: Building CNN Architectures with PyTorch
 
 Introduces CNN implementation using PyTorch.
 
@@ -104,7 +104,7 @@ Topics include:
 - GPU acceleration.
 - Saving and restoring model checkpoints.
 
-### Day 6: Regularization and Data Augmentation
+### 6: Regularization and Data Augmentation
 
 Explores techniques for improving model generalization and controlling overfitting.
 
@@ -122,7 +122,7 @@ Topics include:
 - Training-time augmentation.
 - Validation and test-data integrity.
 
-### Day 7: CNN Project — Image Classification
+### 7: CNN Project — Image Classification
 
 Applies the concepts covered throughout the repository to a complete image classification project using MNIST or CIFAR-10.
 
