@@ -1,5 +1,7 @@
 # Convolutional Neural Networks
 
+ <img src="/assets/images/1.gif" alt="Illustration representing cnn" style="width:100%; height:auto;" />
+
 A practical and structured guide to understanding, implementing, and evaluating Convolutional Neural Networks (CNNs) for computer vision tasks.
 
 This repository follows a progressive learning path that begins with the fundamental concepts behind CNNs and advances toward framework-based implementation using TensorFlow, Keras, and PyTorch. The final module applies these concepts to an end-to-end image classification project using the MNIST or CIFAR-10 dataset.
