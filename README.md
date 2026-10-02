@@ -31,7 +31,7 @@ By completing this repository, you will be able to:
 
 Introduces the architecture, purpose, and core principles of Convolutional Neural Networks.
 
-<img src="/assets/images/2.png" alt=" cnn architecture" style="width:100%; height:auto;" />
+<img src="/assets/images/2.gif" alt=" cnn architecture" style="width:100%; height:auto;" />
 
 Topics include:
 
