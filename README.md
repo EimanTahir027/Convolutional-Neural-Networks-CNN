@@ -48,6 +48,9 @@ Topics include:
 
 Explains how convolutional layers detect meaningful patterns in images.
 
+
+ <img src="/assets/images/3.gif" alt="Illustration representing cnn" style="width:100%; height:auto;" />
+ 
 Topics include:
 
 - Convolution operations.
