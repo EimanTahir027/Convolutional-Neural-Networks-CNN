@@ -67,11 +67,14 @@ Topics include:
 
 Covers pooling operations and their role in reducing spatial dimensions.
 
+
+ <img src="/assets/images/4.png" alt="Illustration representing cnn" style="width:100%; height:auto;" />
+
 Topics include:
 
 - Max pooling.
 - Average pooling.
-- Global average pooling.
+ Global average pooling.
 - Spatial dimensionality reduction.
 - Computational efficiency.
 - Translation tolerance.
