@@ -101,6 +101,7 @@ Topics include:
 
 ### 5: Building CNN Architectures with PyTorch
 
+ <img src="/assets/images/8.png" alt="Illustration representing cnn" style="width:100%; height:auto;" />
 Introduces CNN implementation using PyTorch.
 
 Topics include:
