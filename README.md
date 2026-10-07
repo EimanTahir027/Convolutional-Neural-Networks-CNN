@@ -119,6 +119,9 @@ Topics include:
 
 ### 6: Regularization and Data Augmentation
 
+ <img src="/assets/images/9.png" alt="Illustration representing cnn" style="width:100%; height:auto;" />
+
+
 Explores techniques for improving model generalization and controlling overfitting.
 
 Topics include:
