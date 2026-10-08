@@ -142,6 +142,8 @@ Topics include:
 
 Applies the concepts covered throughout the repository to a complete image classification project using MNIST or CIFAR-10.
 
+<img src="/assets/images/9.gif" alt="Illustration representing cnn" style="width:100%; height:auto;" />
+
 The project includes:
 
 - Dataset loading and preparation.
