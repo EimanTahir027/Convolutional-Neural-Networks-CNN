@@ -85,7 +85,8 @@ Topics include:
 
 Demonstrates how to design, train, and evaluate CNN models using TensorFlow and Keras.
 
- <img src="/assets/images/7.gif" alt="Illustration representing cnn" style="width:100%; height:auto;" />
+ <img src="/assets/images/10.jpg" alt="Illustration representing cnn" style="width:100%; height:auto;" />
+
 
 Topics include:
 
